@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nth Smallest Value", "Nth Smallest Value\Nth Smallest Value.csproj", "{763FEA0C-0785-4390-86E4-68D3D498FC5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contest Hall Preparation", "Contest Hall Preparation\Contest Hall Preparation.csproj", "{9DF6126C-5014-4F4D-81F2-55377C6A9F8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{763FEA0C-0785-4390-86E4-68D3D498FC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{763FEA0C-0785-4390-86E4-68D3D498FC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{763FEA0C-0785-4390-86E4-68D3D498FC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF6126C-5014-4F4D-81F2-55377C6A9F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF6126C-5014-4F4D-81F2-55377C6A9F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF6126C-5014-4F4D-81F2-55377C6A9F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF6126C-5014-4F4D-81F2-55377C6A9F8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
