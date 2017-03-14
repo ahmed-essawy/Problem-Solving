@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{44837B83-F348-4B6C-8EC5-ED2BBDBB8F23}</ProjectGuid>
+    <ProjectGuid>{763FEA0C-0785-4390-86E4-68D3D498FC5C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Nth_Smallest_Value</RootNamespace>
     <AssemblyName>Nth Smallest Value</AssemblyName>
