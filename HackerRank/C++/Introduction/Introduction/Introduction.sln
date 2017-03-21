@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Basic Data Types", "Basic D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conditional Statements", "Conditional Statements\Conditional Statements.vcxproj", "{308CC209-A89A-4D48-97B7-290339BFA45A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For Loop", "For Loop\For Loop.vcxproj", "{D22B9F52-EF52-4E1C-B221-92DC10317AFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{308CC209-A89A-4D48-97B7-290339BFA45A}.Release|x64.Build.0 = Release|x64
 		{308CC209-A89A-4D48-97B7-290339BFA45A}.Release|x86.ActiveCfg = Release|Win32
 		{308CC209-A89A-4D48-97B7-290339BFA45A}.Release|x86.Build.0 = Release|Win32
+		{D22B9F52-EF52-4E1C-B221-92DC10317AFF}.Debug|x64.ActiveCfg = Debug|x64
+		{D22B9F52-EF52-4E1C-B221-92DC10317AFF}.Debug|x64.Build.0 = Debug|x64
+		{D22B9F52-EF52-4E1C-B221-92DC10317AFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{D22B9F52-EF52-4E1C-B221-92DC10317AFF}.Debug|x86.Build.0 = Debug|Win32
+		{D22B9F52-EF52-4E1C-B221-92DC10317AFF}.Release|x64.ActiveCfg = Release|x64
+		{D22B9F52-EF52-4E1C-B221-92DC10317AFF}.Release|x64.Build.0 = Release|x64
+		{D22B9F52-EF52-4E1C-B221-92DC10317AFF}.Release|x86.ActiveCfg = Release|Win32
+		{D22B9F52-EF52-4E1C-B221-92DC10317AFF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
