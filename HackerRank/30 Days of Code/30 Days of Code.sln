@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day 14 - Scope", "Day 14 - 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day 15 - Linked List", "Day 15 - Linked List\Day 15 - Linked List.vcxproj", "{C7B2B98F-A4CA-49E7-91EE-32B6FC6CFA30}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day 16 - Exceptions - String to Integer", "Day 16 - Exceptions - String to Integer\Day 16 - Exceptions - String to Integer.vcxproj", "{6648A670-D42A-4789-BCA5-FACE6EF88B07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,16 @@ Global
 		{C7B2B98F-A4CA-49E7-91EE-32B6FC6CFA30}.Release|x64.Build.0 = Release|x64
 		{C7B2B98F-A4CA-49E7-91EE-32B6FC6CFA30}.Release|x86.ActiveCfg = Release|Win32
 		{C7B2B98F-A4CA-49E7-91EE-32B6FC6CFA30}.Release|x86.Build.0 = Release|Win32
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Debug|x64.ActiveCfg = Debug|x64
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Debug|x64.Build.0 = Debug|x64
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Debug|x86.ActiveCfg = Debug|Win32
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Debug|x86.Build.0 = Debug|Win32
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Release|x64.ActiveCfg = Release|x64
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Release|x64.Build.0 = Release|x64
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Release|x86.ActiveCfg = Release|Win32
+		{6648A670-D42A-4789-BCA5-FACE6EF88B07}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
